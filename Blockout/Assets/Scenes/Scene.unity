@@ -4153,7 +4153,7 @@ Light:
   m_BounceIntensity: 20
   m_ColorTemperature: 11837
   m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 0, y: 1e-45, z: 1.7969e-41, w: 6e-44}
+  m_BoundingSphereOverride: {x: 1.02e-43, y: 0, z: 0, w: -1.0125511e+37}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -26191,7 +26191,7 @@ LightingSettings:
   m_LightmapMaxSize: 1024
   m_BakeResolution: 40
   m_Padding: 2
-  m_LightmapCompression: 2
+  m_LightmapCompression: 3
   m_AO: 0
   m_AOMaxDistance: 1
   m_CompAOExponent: 1
